@@ -21,7 +21,7 @@ Project completed
 
 **Key findings:**
 
--Different methods of ML are able to predict an indicator for the corresponding date on the basis of historical data. If we have a large deviation of a forecasted value from the real one the data should be returned to correction. 
+- Different methods of ML are able to predict an indicator for the corresponding date on the basis of historical data. If we have a large deviation of a forecasted value from the real one the data should be returned to correction. 
 - The best model for given time series is ARIMA model, which has shown the best quality.
 
 **Used libraries:**
